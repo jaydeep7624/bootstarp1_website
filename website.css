@@ -1,0 +1,496 @@
+.teacher_photo
+{
+    background-color:#07294d;  
+    height: 500px;   
+    width: 100%;
+}
+.teacher_photo1
+{
+    background-image: url('images/teachers/teacher-2/happy.png');
+    height:500px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+   
+}
+.image
+{
+    width:100%;
+    height:100%;
+
+}
+.blue_to_black
+{
+    color:black;
+}
+.blue_to_black1
+{
+    color:black;
+}
+.blue_to_black1:hover
+{
+    color:#ffc600;
+}
+.font-family
+{
+    font-family: 'Poppins', sans-serif;
+}
+.blank_div_20px
+{
+    height:20px;
+}
+.fafa_icon1
+{
+    font-size:20px !important;
+}
+.btn_color1
+{
+    background-color:#ffff00;
+    border:1px solid #ffff00;
+    color:#0000ff
+}
+.footer_color
+{
+    background-color: #07294d;
+}
+.blue_to_white
+{
+    color:white;
+}
+.blue_to_white1
+{
+    color:white;
+}
+.blue_to_white1:hover
+{
+    color:#ffc600;
+}
+.blue_to_ffc600
+{
+    color:#ffc600;
+}
+.hover_back_footer
+{
+    background:#021d3a;
+}
+.hover_back_footer:hover
+{
+    background:#ffc600;
+}
+.background_1
+{
+    background-image:url('images/category/ctg-1.jpg');
+    background-position: center;
+    background-size:cover;
+    
+}
+.background_2
+{
+    background-image:url('images/category/ctg-2.jpg');
+    background-position: center;
+    background-size:cover;
+    
+}
+.border-radius
+{
+    border-radius:10px;
+}
+.background_color
+{
+    background-color: rgba(7, 41, 77, 0.6);
+}
+.blank_div_10px
+{
+    height:10px;
+}
+.color_category
+{
+    background-color:#fefefe;
+}
+.input1
+{
+    height:50px;
+    width:100%;
+    border:1px solid black;
+    border-radius:10px;
+    padding-left:40px;
+}
+.form_btn
+{
+    background-color:#ffc600;
+    border:1px solid #ffc600;
+    height:50px;
+    width:100%;
+    border-radius:10px;
+}
+.form_btn:hover
+{
+    background-color:#07294d;
+    border:1px solid #07294d;
+    color:#ffc600;
+    height:50px;
+    width:100%
+}
+.blank_div_100px
+{
+    height:100px;
+}
+.fc_bg1
+{
+    background-image: url('images/course/cu-1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.fc_bg2
+{
+    background-image: url('images/course/cu-2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.fc_bg3
+{
+    background-image: url('images/course/cu-3.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.fc_btn1
+{
+    position:absolute;
+    right:20px;
+    top:100px;
+    color:#0000ff;
+    background-color: #ffc600;
+    border-radius: 50%;
+    height:50px;
+    width:50px;
+
+}
+.position1
+{
+    
+    height:70px;
+    width:100%;
+    background-color:rgba(0, 0,0,0.8);    
+   
+}
+
+.border-radius1
+{
+    border-radius:50%;
+}
+.star_color
+{
+    color:#ffc600;
+}
+.background_3
+{
+    background-image: url('images/bg-2.jpg');
+    background-size: cover;
+    background-position: center;
+
+}
+.blank_div_50px
+{
+    height:50px;
+    width:100%;
+}
+.blue_to_505050
+{
+    color:#505050;
+}
+.teacher_photo2
+{
+    background-image:url('images/bg-3.jpg');
+    height:550px;
+    width:100%;
+    border-radius:10px;
+    background-position: center;
+    background-size: cover;
+   
+}
+.about_teacher1
+{
+    background-image:url('images/teachers/t-1.jpg');
+    background-position: center;
+    background-size: 100% 100%;
+    height:250px;
+    width:100%;
+    transition:1s;
+}
+.about_teacher1:hover
+{
+    background-image:url('images/teachers/t-1.jpg');
+    background-position: center;
+    background-size: 105% 105%;
+    transition:1s;
+    height:250px;
+    width:100%;
+    
+}
+.about_teacher2
+{
+    background-image:url('images/teachers/t-2.jpg');
+    background-position: center;
+    background-size: 100% 100%;
+    height:250px;
+    width:100%;
+    transition:1s;
+}
+.about_teacher2:hover
+{
+    background-image:url('images/teachers/t-2.jpg');
+    background-position: center;
+    background-size: 105% 105%;
+    transition:1s;
+    height:250px;
+    width:100%;
+    
+}
+.about_teacher3
+{
+    background-image:url('images/teachers/t-3.jpg');
+    background-position: center;
+    background-size: 100% 100%;
+    height:250px;
+    width:100%;
+    transition:1s;
+}
+.about_teacher3:hover
+{
+    background-image:url('images/teachers/t-3.jpg');
+    background-position: center;
+    background-size: 105% 105%;
+    transition:1s;
+    height:250px;
+    width:100%;
+    
+}
+.about_teacher4
+{
+    background-image:url('images/teachers/t-4.jpg');
+    background-position: center;
+    background-size: 100% 100%;
+    height:250px;
+    width:100%;
+    transition:1s;
+}
+.about_teacher4:hover
+{
+    background-image:url('images/teachers/t-4.jpg');
+    background-position: center;
+    background-size: 105% 105%;
+    transition:1s;
+    height:250px;
+    width:100%;
+    
+}
+.about_teacher5
+{
+    background-image:url('images/teachers/t-5.jpg');
+    background-position: center;
+    background-size: 100% 100%;
+    height:250px;
+    width:100%;
+    transition:1s;
+}
+.about_teacher5:hover
+{
+    background-image:url('images/teachers/t-5.jpg');
+    background-position: center;
+    background-size: 105% 105%;
+    transition:1s;
+    height:250px;
+    width:100%;
+    
+}
+.about_teacher6
+{
+    background-image:url('images/teachers/t-6.jpg');
+    background-position: center;
+    background-size: 100% 100%;
+    height:250px;
+    width:100%;
+    transition:1s;
+}
+.about_teacher6:hover
+{
+    background-image:url('images/teachers/t-6.jpg');
+    background-position: center;
+    background-size: 105% 105%;
+    transition:1s;
+    height:250px;
+    width:100%;
+    
+}
+.about_teacher7
+{
+    background-image:url('images/teachers/t-7.jpg');
+    background-position: center;
+    background-size: 100% 100%;
+    height:250px;
+    width:100%;
+    transition:1s;
+}
+.about_teacher7:hover
+{
+    background-image:url('images/teachers/t-7.jpg');
+    background-position: center;
+    background-size: 105% 105%;
+    transition:1s;
+    height:250px;
+    width:100%;
+    
+}
+.about_teacher8
+{
+    background-image:url('images/teachers/t-8.jpg');
+    background-position: center;
+    background-size: 100% 100%;
+    height:250px;
+    width:100%;
+    transition:1s;
+}
+.about_teacher8:hover
+{
+    background-image:url('images/teachers/t-8.jpg');
+    background-position: center;
+    background-size: 105% 105%;
+    transition:1s;
+    height:250px;
+    width:100%;
+    
+}
+.aboutus_1
+{
+    height:100%;
+    width:100%;
+    background-image: url('images/bg-2.jpg');
+    background-position:top;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.course2_button
+{
+    height:100%;
+    width:100%;
+    background-color:#ffc600;
+    color:#07294d;
+    border:1px solid #ffc600;
+    border-radius:100px;
+}
+.course2_button:hover
+{
+    height:100%;
+    width:100%;
+    color:#ffc600;
+    background-color:#07294d;
+    border:1px solid #ffc600;
+}
+.course2_back1
+{
+    background-image: url('images/your-make/y-1.jpg');
+    background-size:100%;
+    background-position:center;
+}
+.course_teacher1
+{
+    background-image:url('images/course/cu-2.jpg');
+    background-position: center;
+    background-size: 100% 100%;
+    height:250px;
+    width:100%;
+    transition:1s;
+}
+.course_teacher1:hover
+{
+    background-image:url('images/course/cu-2.jpg');
+    background-position: center;
+    background-size: 105% 105%;
+    transition:1s;
+    height:250px;
+    width:100%;
+    
+}
+.course_teacher2
+{
+    background-image:url('images/course/cu-1.jpg');
+    background-position: center;
+    background-size: 100% 100%;
+    height:250px;
+    width:100%;
+    transition:1s;
+}
+.course_teacher2:hover
+{
+    background-image:url('images/course/cu-1.jpg');
+    background-position: center;
+    background-size: 105% 105%;
+    transition:1s;
+    height:250px;
+    width:100%;
+    
+}
+.course_teacher3
+{
+    background-image:url('images/course/cu-3.jpg');
+    background-position: center;
+    background-size: 100% 100%;
+    height:250px;
+    width:100%;
+    transition:1s;
+}
+.course_teacher3:hover
+{
+    background-image:url('images/course/cu-3.jpg');
+    background-position: center;
+    background-size: 105% 105%;
+    transition:1s;
+    height:250px;
+    width:100%;
+    
+}
+.course_teacher4
+{
+    background-image:url('images/course/cu-4.jpg');
+    background-position: center;
+    background-size: 100% 100%;
+    height:250px;
+    width:100%;
+    transition:1s;
+}
+.course_teacher4:hover
+{
+    background-image:url('images/course/cu-4.jpg');
+    background-position: center;
+    background-size: 105% 105%;
+    transition:1s;
+    height:250px;
+    width:100%;
+    
+}
+.course_teacher5
+{
+    background-image:url('images/course/cu-5.jpg');
+    background-position: center;
+    background-size: 100% 100%;
+    height:250px;
+    width:100%;
+    transition:1s;
+}
+.course_teacher5:hover
+{
+    background-image:url('images/course/cu-5.jpg');
+    background-position: center;
+    background-size: 105% 105%;
+    transition:1s;
+    height:250px;
+    width:100%;
+    
+}
